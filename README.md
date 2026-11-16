@@ -68,5 +68,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
